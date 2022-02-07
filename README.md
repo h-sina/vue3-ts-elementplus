@@ -1,2 +1,19 @@
-# vue3-ts-elementplus
-关于豆瓣电影和网易云音乐带登录注册留言功能的系统
+# blog
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
