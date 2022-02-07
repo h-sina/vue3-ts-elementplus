@@ -4,7 +4,7 @@ https://github.com/biaochenxuying/blog-vue-typescript<br>
 https://github.com/iiiiiii1/douban-imdb-api<br>
 https://github.com/Binaryify/NeteaseCloudMusicApi<br>
 ### 效果图
-![image]( https://github.com/h-sina/vue3-ts-elementplus/blob/43e63b3eac9ae5a954017b3effbf26d8b649c963/src/introduce/vue+ts+elementplus.gif)
+![image]( https://github.com/h-sina/vue3-ts-elementplus/blob/43e63b3eac9ae5a954017b3effbf26d8b649c963/src/introduce/1.gif)
 ### 使用方法
 1. git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
 2. node app.js
