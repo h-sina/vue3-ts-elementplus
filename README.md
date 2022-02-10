@@ -16,12 +16,12 @@ node app.js
 ```
 #### 后端部署 后端（nodejs）
 ```
-https://github.com/h-sina/nodejs 下载 <br>
-node index.js 启动 <br>
+https://github.com/h-sina/nodejs 下载 
+node index.js 启动 
 ```
 #### 启动部署 前端（vue+ts+elementplus）
 ```
-git clone https://github.com/h-sina/vue3-ts-elementplus.git <br>
-npm run serve <br>
+git clone https://github.com/h-sina/vue3-ts-elementplus.git 
+npm run serve 
 ```
-数据库 user表和comment表 还没💴部署到云服务器 <br>
+数据库 user表和comment表 还没💴部署到云服务器 
