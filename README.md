@@ -10,13 +10,18 @@ https://github.com/Binaryify/NeteaseCloudMusicApi<br>
 ![](https://img-blog.csdnimg.cn/c111543626c34a23a2944ced4b517647.gif)
 ### 使用方法
 #### 网易云音乐部署到本地方法
-1. git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
-2. node app.js
+```
+git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
+node app.js
+```
 #### 后端部署 后端（nodejs）
+```
 https://github.com/h-sina/nodejs 下载 <br>
 node index.js 启动 <br>
+```
 #### 启动部署 前端（vue+ts+elementplus）
+```
 git clone https://github.com/h-sina/vue3-ts-elementplus.git <br>
 npm run serve <br>
-
+```
 数据库 user表和comment表 还没💴部署到云服务器 <br>
