@@ -1,5 +1,5 @@
 # 关于豆瓣电影和网易云音乐带登录注册留言功能的系统
-访问：https://vue3-ts-elementplus.web.cloudendpoint.cn/ 但是不能登录（没安置数据库）
+访问：https://vue3-ts-elementplus.web.cloudendpoint.cn/ 
 ### 灵感和接口来源
 https://github.com/biaochenxuying/blog-vue-typescript<br>
 https://github.com/iiiiiii1/douban-imdb-api<br>
@@ -24,4 +24,4 @@ node index.js 启动
 git clone https://github.com/h-sina/vue3-ts-elementplus.git 
 npm run serve 
 ```
-数据库 user表和comment表 还没💴部署到云服务器 
+数据库 user表和comment表 数据库已部署到微信云服务器🧇
