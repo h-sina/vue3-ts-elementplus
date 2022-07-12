@@ -24,4 +24,3 @@ node index.js 启动
 git clone https://github.com/h-sina/vue3-ts-elementplus.git 
 npm run serve 
 ```
-数据库 user表和comment表 数据库已部署到微信云服务器🧇
